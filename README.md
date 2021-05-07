@@ -12,6 +12,8 @@ https://github.com/quanhua92/human-pose-estimation-opencv
 
 <h2> Result</h2>
 
+<img src="https://github.com/lalshrikant12/Activity-Recognition/blob/main/pose.PNG" width=100, height=10>
+
 
 
 
