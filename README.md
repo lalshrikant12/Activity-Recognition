@@ -3,9 +3,9 @@
 <h2> Resources</h2>
 https://github.com/quanhua92/human-pose-estimation-opencv
 
-Requirements:
-Python 
-jupyterNotebook
-opencv
-Tensorflow
+##Requirements:
+1. Python 
+2. jupyterNotebook
+3. opencv
+4. Tensorflow
 
