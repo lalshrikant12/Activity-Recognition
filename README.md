@@ -1,10 +1,10 @@
 # Activity-Recognition
 
 <h2> Resources</h2>
-###Load the from from the repository given belo###
+<p>Load the from from the repository given belo</p>
 https://github.com/quanhua92/human-pose-estimation-opencv
 
-##Requirements:##
+<h2>Requirements:</h2>
 1. Python 
 2. jupyterNotebook
 3. opencv
